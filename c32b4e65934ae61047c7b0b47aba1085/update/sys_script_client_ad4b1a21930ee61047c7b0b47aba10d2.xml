@@ -13,6 +13,7 @@
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
    g_form.addInfoMessage("new test 24 from demo");
+   //Added comment on monday 23_06_2025
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -21,7 +22,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ad4b1a21930ee61047c7b0b47aba10d2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Test 24</sys_name>
         <sys_overrides/>
         <sys_package display_value="Tuesday(10-06-2025)" source="c32b4e65934ae61047c7b0b47aba1085">c32b4e65934ae61047c7b0b47aba1085</sys_package>
@@ -29,7 +30,7 @@
         <sys_scope display_value="Tuesday(10-06-2025)">c32b4e65934ae61047c7b0b47aba1085</sys_scope>
         <sys_update_name>sys_script_client_ad4b1a21930ee61047c7b0b47aba10d2</sys_update_name>
         <sys_updated_by>challa.teja</sys_updated_by>
-        <sys_updated_on>2025-06-10 10:07:13</sys_updated_on>
+        <sys_updated_on>2025-06-23 14:42:01</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
