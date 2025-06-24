@@ -57,7 +57,7 @@ jobs:
     # completed pull request, hence the conditional for push to master. In other words,
     # the first two jobs run on CI, then all three jobs run on CD. 
     needs: build
-    name: Deploy to Prod
+    name: Deploy to Test
     runs-on: ubuntu-latest
    # if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
     steps:
